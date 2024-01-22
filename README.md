@@ -6,7 +6,7 @@
 - Coding in Python, mySQL and Swift
 - The Software I use everyday are: iOS/iPadOS/watchOS/macOS 
 - 💞️ I’m looking to collaborate on creative and amazing projects
-- 📫 How to reach me: luca.silva93@icloud.com; https://www.linkedin.com/in/luca-silva-7b020a2b0/
+- 📫 How to reach me: luca.silva93@icloud.com; inkedin.com/in/luca-silva-7b020a2b0
 
 
 
